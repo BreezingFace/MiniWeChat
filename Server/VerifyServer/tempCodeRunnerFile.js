@@ -1,0 +1,1 @@
+  server.addService(message_proto.VerifyService.service, { GetVerifyCode: GetVerifyCode })
